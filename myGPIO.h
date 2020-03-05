@@ -1,8 +1,8 @@
 /*
  * myGPIO.h
  *
- *  Created on:
- *      Author:
+ *  Created on: 3/4/20
+ *      Author: Nelson Hurley
  *
  */
 
